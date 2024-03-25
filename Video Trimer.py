@@ -1,0 +1,2 @@
+from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
+ffmpeg_extract_subclip("[AnimeSanka.Com] Vi Sa - EP 01 -[Bluray - 1080p - Ar - X265]0.mkv", 0, 200, targetname="[AnimeSanka.Com] Vi Sa - EP 01 -[Bluray - 1080p - Ar - X265].mkv")
